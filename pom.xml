@@ -16,10 +16,10 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <junit.version>5.3.1</junit.version>
         <jacoco.version>0.8.2</jacoco.version>
-        <sonar.projectKey>maven-demo-project</sonar.projectKey>
-        <sonar.organization>itrainphoenix</sonar.organization>
+        <sonar.projectKey>maven-pdp</sonar.projectKey>
+        <sonar.organization>pdpwarriors</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.login>4b8683b7b7419fd539cd1a8bbd6e7a522b42f71b</sonar.login>     
+        <sonar.login>a45a22ebea3ea49dcc9f91fe43fa0aa1dffc52e4</sonar.login>     
     </properties>
 
     <dependencies>
